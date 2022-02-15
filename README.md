@@ -9,5 +9,5 @@ Temos o vídeo no <a href="https://www.youtube.com/watch?v=fpetKMRkd-Q&ab_channe
 Tela que usamos está aqui em baixo como base do código.
     
 ![Resume cv](/Home.png)
-![Resume cv](/Tela de Login.png)
-![Resume cv](/Tela do carinho.png)
+![Resume cv](/Tela_de_Login.png)
+![Resume cv](/Tela_do_carinho.png)
